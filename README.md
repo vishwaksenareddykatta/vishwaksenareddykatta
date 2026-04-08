@@ -63,8 +63,3 @@ A unified command center to manage my studies, projects, and startup progress—
 
 ---
 
-## 🌐 Connect
-
-- GitHub: https://github.com/yourusername  
-- LinkedIn: (add if you want)  
-- Email: (optional)
