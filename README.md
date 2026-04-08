@@ -2,64 +2,65 @@
   <img src="./banner.png" alt="Banner" />
 </p>
 
-<h1 align="center">Katta Vishwak Sena Reddy</h1>
+<h1 align="center">Vishwak Sena Reddy Katta</h1>
 
 <p align="center">
-  <b>Builder • Founder • Product Engineer</b><br>
-  Architecting systems. Engineering execution.
+  <b>Founder & CEO • Systems Architect • AI & Security Innovator</b>
 </p>
 
 ---
 
 ## 🧠 Dashboard of Operations & Product Engineering
 
-A unified command center to manage my studies, projects, and startup progress—turning ideas into execution and measurable results.
+A unified command center to manage my studies, engineering systems, and startup execution—focused on building secure, scalable, and infrastructure-level solutions.
 
 ---
 
-## ⚙️ Core Systems
+## 🧩 About Me
 
-- 📚 **Studies Engine** → Structured learning & knowledge tracking  
-- ⚡ **Project Pipeline** → Build, test, deploy systems  
-- 🚀 **Startup Ops** → Execution, growth, and scaling  
-- 🧠 **Innovation Lab** → New ideas, experiments, prototypes  
+I am a technology founder and systems architect focused on designing and building secure, scalable systems from first principles.
+
+My work spans across artificial intelligence, cybersecurity, hardware ecosystems, and infrastructure-level architectures. I prioritize resilience, security, and long-term impact in every system I create.
+
+---
+
+## ⚙️ Core Domains
+
+- 🧠 Artificial Intelligence Systems  
+- 🔐 Security & Encryption Architecture  
+- 🏗 Infrastructure & Systems Design  
+- ⚡ Scalable Backend Engineering  
+- 🔌 Hardware & IoT Integration  
 
 ---
 
 ## 🛠 Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python"/>
-  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript"/>
-  <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react"/>
-  <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js"/>
-  <img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb"/>
-</p>
+- **Languages:** Python  
+- **Frameworks & Tools:** Django, Django REST Framework  
+- **Technologies:** AI/ML, APIs, IoT  
+- **Databases:** MongoDB, MySQL  
 
 ---
 
-## 🚀 Current Focus
+## 🚀 Current Work
 
-- Building **TapDrive & TapPod ecosystem**
-- Developing **Marvin AI (Jarvis-level system)**
-- Creating **StackHeal AI**
-- Engineering real-world **Iron Man suit systems**
-
----
-
-## 📊 GitHub Intelligence
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight"/>
-</p>
+- Building **secure hardware ecosystems**
+- Developing **AI-driven systems**
+- Designing **infrastructure-scale architectures**
+- Leading **NexVark Industries**
 
 ---
 
-## ⚡ System Philosophy
+## 🧠 Engineering Philosophy
 
-> Build what others think is impossible.  
-> Engineer clarity. Execute relentlessly.
+> Design from first principles.  
+> Build for failure.  
+> Scale with intention.  
 
 ---
 
+## 🌐 Contact
+
+- 📧 kattavishwaksenareddy@gmail.com  
+- 📍 Hyderabad, India  
