@@ -10,12 +10,6 @@
 
 ---
 
-## 🧠 Dashboard of Operations & Product Engineering
-
-A unified command center to manage my studies, engineering systems, and startup execution—focused on building secure, scalable, and infrastructure-level solutions.
-
----
-
 ## 🧩 About Me
 
 I am a technology founder and systems architect focused on designing and building secure, scalable systems from first principles.
