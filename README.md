@@ -2,7 +2,7 @@
   <img src="./banner.png" alt="Banner" />
 </p>
 
-<h1 align="center">Katta Vishwak Sena Reddy</h1>
+<h1 align="center">Vishwak Sena Reddy Katta</h1>
 
 <p align="center">
   <b>Builder • Founder • Product Engineer</b><br>
