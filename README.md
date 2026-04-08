@@ -15,12 +15,6 @@
 
 ---
 
-## 🧠 Dashboard of Operations & Product Engineering
-
-A unified command center to manage my studies, projects, and startup progress—turning ideas into execution and measurable results.
-
----
-
 ## ⚙️ Core Systems
 
 - 📚 **Studies Engine** → Structured learning & knowledge tracking  
