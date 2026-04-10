@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vishwaksenareddykatta/vishwaksenareddykatta/main/my2.png" />
+  <img src="https://raw.githubusercontent.com/vishwaksenareddykatta/vishwaksenareddykatta/main/banner.png" />
 </p>
 
 <h1 align="center">Vishwak Sena Reddy Katta</h1>
